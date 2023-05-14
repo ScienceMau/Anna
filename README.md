@@ -51,6 +51,14 @@ For its use it is necessary to install the following packages:
 
 ## Codes 
 
+### Julia Script
+
+1. **01_test_frac.jl**: Calculate the 01-Test for fractional ordinary diferential equation. 
+
+2. **bifurcation.jl**: Calculate the bifurcation diagram for fractional ordinary diferential equation.
+
+### Python Script
+
 
 ## Publication
 
