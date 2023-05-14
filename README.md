@@ -59,6 +59,9 @@ For its use it is necessary to install the following packages:
 
 ### Python Script
 
+1. **1_plot_01-test.py**: Generate the 01-Test Plot
+
+2. **2_plot_bifurcation.py**: Generate the Bifurcation Diagram Plot
 
 ## Publication
 
