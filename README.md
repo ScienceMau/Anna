@@ -72,10 +72,9 @@ Generate the Bifurcation Diagram Plot
 
 ![bifurcation](https://github.com/ScienceMau/Anna/assets/61286097/005ca912-9866-402e-81d7-dc343a26a421)
 
-## Image example
-
 
 The figure represents the behavior of the 01-Test that describes an estimate of fractional nonlinear dynamics based on fractional derivative operators applied to a set of differential equations.
+
 
 ![Km_2D](https://github.com/ScienceMau/Anna/assets/61286097/642435a7-0fde-4bce-9ba4-58adc649d77b)
 
